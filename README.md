@@ -18,4 +18,4 @@ This Power BI dashboard analyzes e-commerce transaction data by product category
 - Excel
 
 ## Dashboard Preview:
-![Dashboard Screenshot](ecommerce-dashboard.png)
+![Dashboard Screenshot](Ecommerce-dashboard.png)
